@@ -12,3 +12,7 @@ Using pyhton Pandas tools I merged and edited these datasets to get a final data
 
 To conduct the analysis I defined a model for each county and predicted three values for each scenario per county.
 
+I also made an interactive map for the prediction using CARTO.com:
+
+https://nasimebadi.carto.com/builder/27d6f3a4-04c7-48f6-aa9b-3e44dee6f027/embed
+
